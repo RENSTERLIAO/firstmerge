@@ -6,13 +6,17 @@
     border: 2px solid lightyellow;
     box-shadow: 10px 10px 50px lightyellow;
     transition: 2s;
-
+     top:120px;
+    left:0px;
     position: absolute;
 }
 
 #sun:hover{
     width: 200px;
     height: 200px;
+    position: absolute;
+    top:30px;
+    left:0px;
  
 }
 
